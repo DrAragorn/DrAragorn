@@ -1,5 +1,5 @@
-<h1 align="center">Hey! I'm Thiago Aragão</h1>
-<h3 align="center">Artificial Intelligence and Computer Vision Junior Developer, from Brazil</h3>
+<h1 align="center">Hey! I'm Thiago Aragão, an</h1>
+<h3 align="center">Intelligent Systems Programmer, from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DrAragorn&label=Profile%20views&color=0e75b6&style=flat" alt="DrAragorn" /> </p>
 
